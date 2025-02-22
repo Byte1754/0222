@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Imagine.WebAR.AdvancedSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Imagine.WebAR.ImageTarget" preserve="nothing" serialized="true"/>
+		<type fullname="Imagine.WebAR.ImageTargetInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Imagine.WebAR.TrackerSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent`1[Imagine.WebAR.ARCamera/ARCameraOrientation]" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent`1[System.String]" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Vector2]" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
